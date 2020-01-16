@@ -5,9 +5,9 @@ curriculum, gave initial instructions on where to start with the code but the us
 functions to create a working program. I went an extra step and created a custom UI as well.
 
 
-link to project: https://www.theodinproject.com/courses/web-development-101/lessons/rock-paper-scissors
+link to project tutorial: https://www.theodinproject.com/courses/web-development-101/lessons/rock-paper-scissors
 
 to view locally: 1.) download zip file
-		 2.) extract folder inside zip file to somewhere on your computer
+		 2.) extract folder inside zip file to a location on your computer
 		 3.) right click on "index.html" and open in a web browser (preferably Google Chrome)
 		 4.) enjoy!
