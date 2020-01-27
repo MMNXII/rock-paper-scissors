@@ -4,6 +4,7 @@ A program that plays the simple hand sign game Rock, Paper, Scissors. This proje
 curriculum, gave initial instructions on where to start with the code but the user had to create and organize different
 functions to create a working program. I went an extra step and created a custom UI as well.
 
+view project live: rockpaperscissors.matthewmneal.com
 
 link to project tutorial: https://www.theodinproject.com/courses/web-development-101/lessons/rock-paper-scissors
 
