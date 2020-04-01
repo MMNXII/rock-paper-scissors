@@ -1,0 +1,29 @@
+{
+  "name": "rock-paper-scissors",
+  "version": "1.0.0",
+  "description": "A program that plays the simple hand sign game Rock, Paper, Scissors. This project, as part of The Odin Project's Web Development 101 curriculum, gave initial instructions on where to start with the code but the user had to create and organize different functions to create a working program. I went an extra step and created a custom UI as well.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MMNXII/rock-paper-scissors.git"
+  },
+  "author": "Matthew Neal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MMNXII/rock-paper-scissors/issues"
+  },
+  "devDependencies": {
+    "css-loader": "^3.4.2",
+    "style-loader": "^1.1.3",
+    "webpack": "^4.42.1",
+    "webpack-cli": "^3.3.11"
+  },
+  "homepage": "https://github.com/MMNXII/rock-paper-scissors#readme",
+  "dependencies": {
+    "animejs": "^3.1.0"
+  }
+}
