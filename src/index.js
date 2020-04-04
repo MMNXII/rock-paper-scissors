@@ -35,6 +35,7 @@ let fullGameResult = document.querySelector("#fullGameWinner");
 
 
     function rock() {
+          
         let playerSelection = playerSelectionText.textContent = "rock";
         round();
 
@@ -46,6 +47,14 @@ let fullGameResult = document.querySelector("#fullGameWinner");
             fullGameResult.textContent = "You lost the game!";
             reset();
         }
+
+        anime({
+            targets: rockBtn,
+            duration: 150,
+            translateY: [0, ".3em"],
+            direction: "alternate",
+            easing: "linear"
+          });
     }
 
     function paper() {
@@ -60,6 +69,14 @@ let fullGameResult = document.querySelector("#fullGameWinner");
             fullGameResult.textContent = "You lost the game!";
             reset();
         }
+
+        anime({
+            targets: paperBtn,
+            duration: 150,
+            translateY: [0, ".3em"],
+            direction: "alternate",
+            easing: "linear"
+          });
     }
 
     function scissors() {
@@ -74,6 +91,14 @@ let fullGameResult = document.querySelector("#fullGameWinner");
             fullGameResult.textContent = "You lost the game!";
             reset();
         }
+
+        anime({
+            targets: scissorsBtn,
+            duration: 150,
+            translateY: [0, ".3em"],
+            direction: "alternate",
+            easing: "linear"
+          });
     }
 
     function computerPlay() {
