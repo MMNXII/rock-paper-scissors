@@ -43,7 +43,7 @@ body {
 
 #playerSelectionText, #computerSelectionText, #resultText {
     font-weight: 600;
-    font-size: 1.2em;
+    font-size: 1em;
 }
 
 #playerWins, #computerWins, #fullGameWinner {
