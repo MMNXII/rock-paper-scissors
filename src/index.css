@@ -37,7 +37,7 @@ body {
 
 
 #playerButtonSelection, #displayText, #bestOfFive {
-    line-height: 1em;
+    line-height: .9em;
 }
 
 
@@ -51,7 +51,7 @@ body {
 }
 
 #fullGameWinner {
-    font-size: 2.5em;
+    font-size: 2em;
 }
 
 #sources {
